@@ -1,4 +1,14 @@
-venv/
+# API keys - never upload this
+.env
+
+# Python
 __pycache__/
 *.pyc
-.env
+*.pyo
+
+# Data files (add your own)
+data/
+
+# Virtual environment
+venv/
+env/
